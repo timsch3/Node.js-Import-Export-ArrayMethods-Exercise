@@ -1,0 +1,19 @@
+{
+  "name": "import-export-1-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timsch3/Node.js-Import-Export-ArrayMethods-Exercise.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/timsch3/Node.js-Import-Export-ArrayMethods-Exercise/issues"
+  },
+  "homepage": "https://github.com/timsch3/Node.js-Import-Export-ArrayMethods-Exercise#readme"
+}
